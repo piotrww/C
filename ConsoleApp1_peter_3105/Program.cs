@@ -15,7 +15,7 @@ namespace ConsoleApp1_peter_3105
             string[] names;
             names = new string[4];
             names[1] = "Mirek";
-            names[0] = "Tolek";
+            names[0] = "Tole0k";
             names[3] = "Milek";
            Console.WriteLine(names[1]);
             Console.WriteLine(names[0]);
